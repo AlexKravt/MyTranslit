@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Мой преводчик</string>
+    <string name="title_home">Дом</string>
+    <string name="title_dashboard">История</string>
+    <string name="title_notifications">Настройки</string>
+    <string name="connect_network">Интернет подключен!</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="no_history">История отсутствует</string>
+    <!--Errors-->
+    <string name="error_connect">Нет подключения к интернету!</string>
+</resources>
